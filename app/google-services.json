@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "112927141094",
+    "project_id": "teebaproj",
+    "storage_bucket": "teebaproj.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:112927141094:android:19a845663e1a571e59df27",
+        "android_client_info": {
+          "package_name": "com.example.teebaproj"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "112927141094-35f8d78oitnne3gnaoq823h4o05fl6m1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxxDTrGJ6dsoqIZJ7W1ejVGpBf1HN6pRI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "112927141094-35f8d78oitnne3gnaoq823h4o05fl6m1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
